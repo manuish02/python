@@ -1,4 +1,4 @@
-
+#//https://www.hackerrank.com/challenges/alice-and-bobs-silly-game/problem
 def sillyGame(n):
     m = [True for i in range(n+1)]
     m[0] = False
